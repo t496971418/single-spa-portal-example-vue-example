@@ -1,3 +1,14 @@
+node_modules
+/app*/node_modules
+/portal/node_modules
+/vue_protal/node_modules
+# /dist
+/vue_protal/dist
+/portal/dist
+/app*/dist
+/app*/release
+/dist
+
 # Logs
 logs
 *.log
